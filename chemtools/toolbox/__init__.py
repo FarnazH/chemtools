@@ -25,6 +25,7 @@
 
 
 from chemtools.toolbox.utils import *
+from chemtools.toolbox.alchem import *
 from chemtools.toolbox.conceptual import *
 from chemtools.toolbox.motbased import *
 from chemtools.toolbox.kinetic import *
